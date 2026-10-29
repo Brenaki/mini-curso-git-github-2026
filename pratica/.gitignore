@@ -1,0 +1,17 @@
+# Arquivos que o Git deve ignorar: não entram em nenhum commit.
+# Complete cada lacuna com o padrão adequado.
+
+# Variáveis de ambiente com senhas e chaves (ex.: SENHA=123)
+
+
+# Dependências baixadas pelo npm (pasta inteira)
+
+
+# Ambiente virtual do Python (pasta inteira)
+
+
+# Qualquer arquivo de log, com qualquer nome
+
+
+# Configurações locais do VS Code (pasta inteira)
+
